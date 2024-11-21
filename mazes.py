@@ -266,6 +266,9 @@ while True:
             elif event.key == pygame.K_SPACE:
                 goal[0] += 1
                 goal[1] += 1
+            elif event.key == pygame.K_BACKSPACE:
+                goal[0] -= 1
+                goal[1] -= 1
     
     game_window.fill(black)
     WALLS.draw(game_window)
