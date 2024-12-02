@@ -1,11 +1,11 @@
 # syntax_snakes
 A* maze final project
 
-To run code make sure the following python packages are installed
-  Pyamaze
-  Pygame
-  Numpy
-  Heaqp
+# Install the Following Packages
+Pyamaze <br/>
+Pygame <br/>
+Numpy <br/>
+Heaqp <br/>
 
 # Pyamaze Package 
 For more information about the Pyamaze package https://github.com/MAN1986/pyamaze
